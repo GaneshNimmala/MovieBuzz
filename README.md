@@ -1,4 +1,4 @@
-# Movie Explorer App
+# MovieBuzz Application
 
 MovieBuzz is a React application that allows you to search for movies, view movie details, and keep track of movies you've watched. It uses the OMDB API to fetch movie data.
 
